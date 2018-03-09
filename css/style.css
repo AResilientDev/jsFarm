@@ -1,0 +1,21 @@
+html{
+  background-image: url("assets/farm2.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+#sheep,#cow,#rooster{
+  height: 200px;
+  width: 200px;
+  position: relative;
+}
+footer{
+  font-style: italic;
+  font-family: georgia cursive;
+  font-weight: bold;
+  font-size: 2.5em;
+  color: Red;
+}
